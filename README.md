@@ -1,5 +1,3 @@
-# Patterns-Logic-Building
-
 # 🧠 Patterns & Logic Building  
 A collection of core problem-solving patterns used in Data Structures & Algorithms.  
 This repository focuses on writing **clean, optimized, pattern-based solutions**.
@@ -78,6 +76,6 @@ These almost always indicate Sliding Window.
 
 - Must handle **fixed vs variable size** carefully  
 - Watch out for edge cases (e.g., empty array, k > n)
-
+#### You tube link -> https://youtu.be/tk38CTSAYsg?si=cQ1f7BNFoS9ahHaj
 ---
 
